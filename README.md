@@ -10,7 +10,7 @@
 <p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
 <p>&nbsp;</p>
 
-<h2>Full Version Source - Required for working site</h2>
+<h2>Warning this are demo source codes, buy the full version from admin group on telegram</h2>
 
 <p><b>Currently, we provide the full source on my telegram there are approximately 1200 games totaling 45+ GB. Including latest Pragmatic Games + Full Source</p></b>
 <p><b>You can message me on Telegram, full source code including installation into your VPS/Dedicated Server.</p></b>
@@ -49,9 +49,6 @@ Added 100 games, bringing total to 1200 games now.</p>
                     for existing users and execute the following in phpMyAdmin (replace the hash)
                     <a href="https://bcrypt-generator.com/" rel="nofollow">https://bcrypt-generator.com/</a>. If
                     you need to hash a new word, for example, run this in phpMyAdmin:</p>
-                <p dir="auto">UPDATE w_users SET password =
-                    '$2a$12$s1RpwEx/oTL3vYQGZjC33eBHECRJb7gkjmAk9Tmyefub7gQ4nh8XS';</p>
-                <p dir="auto">// This ensures all users' passwords are set to: Test123 ********///</p>
             </li>
         </ul>
     </li>
