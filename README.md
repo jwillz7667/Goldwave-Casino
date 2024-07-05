@@ -10,7 +10,7 @@
 <p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
 <p>&nbsp;</p>
 
-<h2>Warning this are demo source codes, buy the full version from admin group on telegram</h2>
+<h2>This codes are just preview, contact admin on Telegram for full version</h2>
 
 <p><b>Currently, we provide the full source on my telegram there are approximately 1200 games totaling 45+ GB. Including latest Pragmatic Games + Full Source</p></b>
 <p><b>You can message me on Telegram, full source code including installation into your VPS/Dedicated Server.</p></b>
