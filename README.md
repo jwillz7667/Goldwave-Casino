@@ -1,4 +1,5 @@
-<h1 align="center">Goldsvet Casino</h1>
+<h1 align="center">OSS Casino</h1>
+<h2 align="center">Formerly Goldsvet</h2>
 <h2 align="center">Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
 
 <p align="center">
