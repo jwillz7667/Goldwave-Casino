@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/slot.png" alt="Alt Text" width="50%">
 </p>
-<p align="center"><a href="https://winhouse.fun" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
+<p align="center"><a href="https://slotlabs.cc" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
 <p align="center"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Community</a></p>
 
 <p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
