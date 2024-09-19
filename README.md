@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/slot.png" alt="Alt Text" width="50%">
 </p>
-<p align="center"><a href="https://slotlabs.cc" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
+<p align="center"><a href="https://legendreels.com" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a></p>
 <p align="center"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Community</a></p>
 <h3 align="center">BEWARE ANY FORK/LINK THAT IMPERSONATE OUR OFFICIAL ACCOUNT</h3>
 
