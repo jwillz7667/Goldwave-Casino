@@ -21,6 +21,10 @@
 Demo USER /Demo Play games is added and activated&nbsp;<br />
 Added 100 games, bringing total to 1200 games now.</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/2025.png" alt="Alt Text" width="50%">
+</p>
+
 <ul>
     <li>Set up your server with the following components:
         <ul>
