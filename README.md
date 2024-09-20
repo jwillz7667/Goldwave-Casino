@@ -9,7 +9,7 @@
 <p align="center"><a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Community</a></p>
 <h3 align="center">BEWARE ANY FORK/LINK THAT IMPERSONATE OUR OFFICIAL ACCOUNT</h3>
 
-<p align="center"><span style="color:#ff0000"><strong>Goldsvet Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
+<p align="center"><span style="color:#ff0000"><strong>OSS Casino Latest 2024 release adds Laravel 10 and PHP 8.1+ support, Easy-Installer.</strong></span></p>
 <p>&nbsp;</p>
 
 <h2>This codes are just preview, contact admin on Telegram for full version</h2>
