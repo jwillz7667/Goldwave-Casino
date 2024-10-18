@@ -9,7 +9,7 @@
 <p align="center">
     <a href="https://legendreels.com" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a> &nbsp; | &nbsp; 
     <a href="https://legacybet.xyz" title="DEMO HERE 2"><strong>DEMO SITE HERE 2</strong></a> &nbsp; | &nbsp;
-    <a href="https://t.me/goldsvetcasino1" rel="nofollow">Telegram Community</a>
+    <a href="https://t.me/goldsvetcasino1" rel="nofollow"><strong>TELEGRAM GROUP</strong></a>
 </p>
 
 <h3 align="center" style="color: #ff0000;">BEWARE OF ANY FORK/LINK THAT IMPERSONATES OUR OFFICIAL ACCOUNT</h3>
