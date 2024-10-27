@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://legacybet.xyz" title="DEMO HERE 2"><strong>DEMO SITE HERE</strong></a> &nbsp; | &nbsp;
+    <a href="https://legacybet.xyz/" title="DEMO HERE"><strong>DEMO SITE HERE</strong></a> &nbsp; | &nbsp;
     <a href="https://t.me/goldsvetcasino1" rel="nofollow"><strong>TELEGRAM GROUP</strong></a>
 </p>
 
