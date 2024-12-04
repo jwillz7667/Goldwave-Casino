@@ -1,0 +1,24 @@
+{
+  "name": "goldwave-casino",
+  "version": "1.0.0",
+  "description": "Goldwave Casino Gaming Platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop all",
+    "restart": "pm2 restart all",
+    "logs": "pm2 logs",
+    "status": "pm2 status"
+  },
+  "keywords": [
+    "casino",
+    "gaming",
+    "websocket"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.4.1",
+    "pm2": "^5.3.0"
+  }
+}
